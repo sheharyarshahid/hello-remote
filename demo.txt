@@ -1,4 +1,4 @@
-*Demo File*
+Demo File
 
 Here is some text we are adding into demo.txt.
 File edited from local copy.
